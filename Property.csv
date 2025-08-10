@@ -1,0 +1,501 @@
+﻿PropertyID,PropertyTitle,PropertyType,Category,Price,Size,Bedrooms,Bathrooms,PropertyCity,PropertyState,Latitude,Longitude,ListedDate,PropertyStatus
+PROP2000,5BR Duplex,Residential,Sale,69123,169,5,2,Ikeja, Lagos,30.5836,136.3596,2024-01-17,sold
+PROP2001,4BR Flat,Residence,Lease,294169.71,72,5,1,Asokoro, Abuja FCT,-11.3006,157.4984,2024-10-07,available
+PROP2002,3BR Duplex,Duplex,Lease,267591.27,157,6,1,Garki, Abuja FCT,-17.5364,163.5973,2024-11-27,sold
+PROP2003,1BR Flat,Apartment,Lease,252376.3,379,2,3,Kano, Kano,54.6806,-38.9417,2025-05-12,sold
+PROP2004,1BR Flat,Commercial,Rent,233537.43,82,4,5,Obio-Akpor, Rivers,1.3152,-120.1109,2024-01-28,pending
+PROP2005,3BR Bungalow,Commercial,Sale,233537.43,480,2,3,Oyo Town, Oyo,-89.8465,141.5559,2023-06-30,available
+PROP2006,4BR Flat,Apartment,Rent,252376.3,134,5,5,Ikorodu, Lagos,-36.0039,-12.6486,2024-04-19,sold
+PROP2007,2BR Flat,Residence,Sale,328443,351,1,1,Obio-Akpor, Rivers,36.8817,-49.5419,2023-11-09,available
+PROP2008,4BR Flat,Business,lease-to-own,119829,387,3,4,Kano, Kano,-40.7453,-30.4572,2024-06-08,on hold
+PROP2009,2BR Duplex,Commercial,Lease,262550,88,5,1,Yaba, Lagos,-13.429,47.1004,2024-12-24,available
+PROP2010,3BR Duplex,Residence,lease-to-own,294169.71,147,2,1,Bonny, Rivers,-67.9927,45.0697,2024-08-27,pending
+PROP2011,2BR Duplex,Residential,Rent,323520,91,6,5,Kano, Kano,3.6863,-143.0679,2025-04-27,pending
+PROP2012,5BR Bungalow,Residential,Sale,301875,309,3,1,Ogbomosho, Oyo,41.1393,-45.1803,2024-10-19,pending
+PROP2013,3BR Flat,Residential,Rent,247940.19,157,2,3,Oyo Town, Oyo,-33.608,-46.0347,2024-11-14,pending
+PROP2014,4BR Bungalow,Residential,Sale,59449,68,5,5,Ibadan, Oyo,-18.3799,-94.5313,2025-04-22,on hold
+PROP2015,2BR Flat,Commercial,Rent,233537.43,141,4,2,Ikorodu, Lagos,-19.8806,-84.1321,2024-09-07,sold
+PROP2016,1BR Bungalow,Commercial,lease-to-own,233537.43,85,3,5,Yaba, Lagos,89.0177,39.2543,2024-02-23,pending
+PROP2017,5BR Flat,Business,Rent,153547,412,5,5,Fagge, Kano,47.2172,74.0399,2023-08-19,pending
+PROP2018,3BR Bungalow,Commercial,Rent,233537.43,396,5,5,Oyo Town, Oyo,42.7084,34.562,2023-12-21,on hold
+PROP2019,5BR Duplex,Duplex,Rent,365427,313,1,2,Asokoro, Abuja FCT,29.699,-94.5528,2025-01-12,sold
+PROP2020,4BR Duplex,Business,Rent,97369,434,4,2,Lekki, Lagos,19.4141,-2.3594,2024-05-02,on hold
+PROP2021,5BR Duplex,Commercial,lease-to-own,233537.43,176,5,4,Port Harcourt, Rivers,-45.6961,70.9282,2024-08-02,pending
+PROP2022,2BR Bungalow,Commercial,Sale,233537.43,327,4,1,Ogbomosho, Oyo,-84.7968,109.5984,2023-12-06,on hold
+PROP2023,5BR Bungalow,Commercial,lease-to-own,233537.43,273,4,3,Bonny, Rivers,65.3395,-166.214,2025-06-05,sold
+PROP2024,4BR Flat,Residential,Lease,247940.19,282,3,4,Kano, Kano,24.9918,175.1516,2024-03-28,on hold
+PROP2025,1BR Bungalow,Commercial,Rent,233537.43,392,4,3,Kano, Kano,-24.1004,-133.4732,2024-01-17,sold
+PROP2026,2BR Flat,Apartment,Rent,252376.3,485,5,1,Ibadan, Oyo,59.029,-50.9771,2024-12-02,on hold
+PROP2027,2BR Duplex,Commercial,Lease,233537.43,273,3,2,Ibadan, Oyo,-28.1154,-115.2234,2023-09-15,pending
+PROP2028,4BR Flat,Residence,Lease,294169.71,355,5,1,Nasarawa, Kano,-62.4618,-173.4151,2024-06-13,available
+PROP2029,4BR Bungalow,Commercial,Lease,233537.43,333,4,5,Kano, Kano,76.0054,-58.8351,2025-02-06,pending
+PROP2030,2BR Bungalow,Business,Lease,268104.95,101,3,2,Ibadan, Oyo,69.4,72.2823,2024-01-27,sold
+PROP2031,3BR Duplex,Business,lease-to-own,198628,179,1,1,Ikeja, Lagos,27.8844,-113.2381,2024-06-13,on hold
+PROP2032,5BR Duplex,Business,lease-to-own,268104.95,206,5,1,Wuse, Abuja FCT,36.2991,98.6166,2025-05-26,sold
+PROP2033,3BR Flat,Commercial,Lease,233537.43,490,1,2,Maitama, Abuja FCT,-5.5724,-44.4944,2024-02-21,sold
+PROP2034,4BR Flat,Business,Lease,268104.95,306,4,1,Ibadan, Oyo,-47.4857,-13.1673,2024-08-16,on hold
+PROP2035,4BR Bungalow,Duplex,lease-to-own,165834,273,1,4,Lekki, Lagos,-53.3563,-142.521,2024-01-15,on hold
+PROP2036,3BR Duplex,Residence,Sale,294169.71,492,6,5,Ogbomosho, Oyo,12.803,-54.6071,2025-04-09,on hold
+PROP2037,4BR Bungalow,Business,Sale,35135,131,5,1,Obio-Akpor, Rivers,-18.8585,1.7637,2024-10-11,available
+PROP2038,4BR Bungalow,Commercial,lease-to-own,119934,85,4,3,Asokoro, Abuja FCT,-2.9263,-149.8712,2024-01-28,available
+PROP2039,5BR Bungalow,Business,lease-to-own,188704,172,2,4,Nasarawa, Kano,-12.7895,113.4526,2024-05-23,pending
+PROP2040,1BR Bungalow,Commercial,lease-to-own,476619,290,3,5,Asokoro, Abuja FCT,72.781,86.6784,2025-03-22,available
+PROP2041,1BR Duplex,Residential,Sale,252615,405,1,3,Obio-Akpor, Rivers,-2.297,43.0715,2023-09-25,pending
+PROP2042,5BR Bungalow,Commercial,lease-to-own,498585,286,4,3,Asokoro, Abuja FCT,8.187,-131.519,2024-01-06,on hold
+PROP2043,4BR Duplex,Residential,Rent,247940.19,201,1,4,Bonny, Rivers,19.6011,-117.3601,2023-10-01,available
+PROP2044,3BR Bungalow,Duplex,Rent,349382,371,3,4,Bonny, Rivers,75.2629,39.1055,2024-12-02,pending
+PROP2045,5BR Duplex,Commercial,Lease,233537.43,201,1,4,Oyo Town, Oyo,58.769,-68.7832,2025-03-07,sold
+PROP2046,3BR Bungalow,Business,Lease,76804,62,5,2,Ibadan, Oyo,23.0007,102.44,2024-06-18,on hold
+PROP2047,5BR Flat,Business,lease-to-own,268104.95,350,4,1,Lekki, Lagos,-68.313,-7.0675,2024-09-29,on hold
+PROP2048,4BR Duplex,Commercial,Sale,233537.43,96,6,5,Bonny, Rivers,-64.4756,-12.2019,2024-11-12,available
+PROP2049,2BR Bungalow,Residential,Lease,470052,326,2,1,Kano, Kano,-12.7901,142.3427,2023-09-03,sold
+PROP2050,1BR Duplex,Business,Lease,289084,281,5,1,Ibadan, Oyo,-41.5699,-33.2891,2024-12-11,on hold
+PROP2051,2BR Flat,Commercial,Lease,233537.43,355,4,5,Bonny, Rivers,-75.8779,-96.4737,2023-10-15,available
+PROP2052,1BR Duplex,Business,Lease,268104.95,128,1,1,Asokoro, Abuja FCT,69.2183,81.259,2024-02-09,available
+PROP2053,4BR Bungalow,Residential,Lease,247940.19,230,2,4,Kano, Kano,-70.6524,33.176,2023-06-29,available
+PROP2054,2BR Duplex,Duplex,Lease,267591.27,53,5,4,Oyo Town, Oyo,68.0739,34.9899,2024-04-17,sold
+PROP2055,3BR Bungalow,Apartment,Sale,483125,129,6,1,Kano, Kano,82.6018,161.0732,2024-10-12,on hold
+PROP2056,5BR Duplex,Apartment,Lease,43811,252,1,2,Bonny, Rivers,46.115,26.4175,2024-06-08,sold
+PROP2057,2BR Bungalow,Apartment,Lease,252376.3,491,4,1,Ibadan, Oyo,13.9963,39.4564,2025-02-05,available
+PROP2058,2BR Bungalow,Business,Lease,268104.95,482,4,5,Obio-Akpor, Rivers,-67.2584,-13.7945,2024-08-22,available
+PROP2059,3BR Bungalow,Duplex,Rent,143872,124,2,5,Ibadan, Oyo,-79.8672,175.3706,2023-09-24,available
+PROP2060,4BR Duplex,Duplex,Lease,267591.27,78,5,1,Nasarawa, Kano,12.5081,89.996,2024-07-28,on hold
+PROP2061,1BR Duplex,Apartment,Rent,252376.3,306,4,1,Ibadan, Oyo,44.7565,20.769,2023-12-15,available
+PROP2062,4BR Duplex,Duplex,Sale,267591.27,83,5,4,Asokoro, Abuja FCT,23.6166,-120.307,2025-02-06,pending
+PROP2063,5BR Bungalow,Residential,Lease,247940.19,455,2,5,Surulere, Lagos,50.5218,13.5977,2024-08-10,on hold
+PROP2064,1BR Duplex,Residential,Sale,247940.19,498,5,4,Ibadan, Oyo,-42.9999,69.4425,2023-11-03,sold
+PROP2065,5BR Flat,Residence,lease-to-own,493942,397,4,3,Yaba, Lagos,-0.8996,-33.3179,2023-09-19,on hold
+PROP2066,2BR Duplex,Business,Rent,268104.95,163,3,1,Yaba, Lagos,-3.7755,-124.9182,2023-08-16,available
+PROP2067,2BR Flat,Residence,lease-to-own,384942,411,4,5,Port Harcourt, Rivers,73.0941,55.2422,2023-08-06,available
+PROP2068,1BR Flat,Commercial,lease-to-own,233537.43,106,5,5,Nasarawa, Kano,-59.5464,-166.0879,2024-07-21,sold
+PROP2069,3BR Flat,Apartment,Sale,252376.3,375,3,3,Surulere, Lagos,89.2719,6.5225,2024-08-09,pending
+PROP2070,4BR Bungalow,Business,Rent,445458,416,1,3,Surulere, Lagos,-70.2027,-112.7157,2023-08-11,available
+PROP2071,3BR Flat,Duplex,Lease,163244,238,4,4,Oyo Town, Oyo,-56.3999,155.5563,2024-02-05,pending
+PROP2072,3BR Duplex,Residential,Sale,247940.19,278,2,4,Fagge, Kano,19.0096,-20.3164,2024-06-01,on hold
+PROP2073,2BR Flat,Commercial,lease-to-own,38244,170,3,4,Bonny, Rivers,60.7671,-122.9929,2024-06-11,sold
+PROP2074,1BR Flat,Duplex,Rent,267591.27,110,3,4,Port Harcourt, Rivers,-65.8276,31.1203,2023-12-18,pending
+PROP2075,5BR Bungalow,Residence,Lease,466358,414,3,5,Garki, Abuja FCT,-37.7476,14.6285,2023-08-11,available
+PROP2076,1BR Flat,Residence,lease-to-own,294169.71,260,5,1,Ikorodu, Lagos,37.1697,98.8146,2024-09-27,pending
+PROP2077,1BR Bungalow,Commercial,Lease,106327,215,3,5,Fagge, Kano,66.6864,-14.8167,2025-02-22,available
+PROP2078,5BR Bungalow,Apartment,Lease,461728,472,1,1,Oyo Town, Oyo,36.5956,-146.563,2024-12-14,sold
+PROP2079,3BR Duplex,Residential,Sale,247940.19,297,2,3,Yaba, Lagos,59.8102,-19.7445,2025-02-02,pending
+PROP2080,3BR Duplex,Commercial,Rent,70757,246,2,2,Port Harcourt, Rivers,2.9762,57.4989,2024-11-05,pending
+PROP2081,2BR Flat,Apartment,Lease,45510,303,3,5,Bonny, Rivers,57.7341,-95.206,2025-06-10,available
+PROP2082,5BR Duplex,Residential,lease-to-own,247940.19,331,5,5,Bonny, Rivers,-39.9874,-24.5936,2024-02-01,sold
+PROP2083,2BR Bungalow,Residence,lease-to-own,294169.71,126,3,5,Fagge, Kano,74.0018,162.9133,2025-05-11,sold
+PROP2084,3BR Duplex,Duplex,Sale,267591.27,457,5,4,Oyo Town, Oyo,-26.568,-146.6473,2024-11-14,sold
+PROP2085,1BR Flat,Residential,lease-to-own,247940.19,127,4,5,Nasarawa, Kano,-23.5715,139.8755,2025-04-23,available
+PROP2086,3BR Bungalow,Residence,Lease,294169.71,176,5,3,Oyo Town, Oyo,-65.588,94.0057,2024-06-01,pending
+PROP2087,5BR Duplex,Business,Lease,425308,71,6,1,Ogbomosho, Oyo,30.4033,22.6668,2024-04-01,on hold
+PROP2088,2BR Flat,Duplex,Rent,354466,101,3,4,Wuse, Abuja FCT,-39.4052,-119.417,2024-05-05,sold
+PROP2089,5BR Flat,Apartment,Sale,498795,263,1,4,Bonny, Rivers,-51.5438,174.4488,2024-07-23,sold
+PROP2090,4BR Flat,Apartment,lease-to-own,163045,107,2,4,Oyo Town, Oyo,20.7773,43.611,2024-08-20,sold
+PROP2091,4BR Bungalow,Residential,Rent,247940.19,215,3,4,Nasarawa, Kano,-8.6136,-171.7678,2025-01-10,on hold
+PROP2092,1BR Duplex,Residence,Rent,294169.71,110,3,5,Nasarawa, Kano,-4.038,-70.9468,2024-05-01,sold
+PROP2093,5BR Flat,Apartment,lease-to-own,252376.3,89,1,5,Fagge, Kano,-44.8401,9.0731,2024-12-25,sold
+PROP2094,4BR Bungalow,Residential,lease-to-own,247940.19,61,3,1,Asokoro, Abuja FCT,39.7091,173.9506,2023-06-20,available
+PROP2095,4BR Duplex,Business,lease-to-own,268104.95,242,6,3,Kano, Kano,18.9922,66.4225,2024-12-07,sold
+PROP2096,4BR Duplex,Commercial,Lease,118818,464,5,1,Ikeja, Lagos,-14.7379,111.5374,2023-07-10,sold
+PROP2097,2BR Flat,Commercial,Lease,233537.43,356,2,3,Nasarawa, Kano,-68.9472,88.8611,2023-08-29,sold
+PROP2098,3BR Bungalow,Business,lease-to-own,268104.95,144,2,2,Nasarawa, Kano,-18.0668,-97.2033,2024-04-05,sold
+PROP2099,3BR Bungalow,Residential,lease-to-own,247940.19,97,1,3,Bonny, Rivers,-67.2636,120.3989,2025-05-18,available
+PROP2100,1BR Bungalow,Business,Rent,384708,172,3,4,Kano, Kano,69.3987,151.0715,2023-11-13,pending
+PROP2101,1BR Bungalow,Commercial,Rent,233537.43,349,3,2,Bonny, Rivers,-11.765,159.7869,2025-02-11,pending
+PROP2102,3BR Flat,Commercial,lease-to-own,116494,318,6,1,Nasarawa, Kano,-71.4354,39.6562,2024-10-18,on hold
+PROP2103,4BR Flat,Residential,lease-to-own,26213,419,5,3,Garki, Abuja FCT,69.4023,162.6205,2025-02-01,on hold
+PROP2104,3BR Duplex,Business,Rent,385552,203,6,1,Kano, Kano,39.5929,-123.8705,2025-05-30,on hold
+PROP2105,1BR Flat,Commercial,lease-to-own,162131,400,5,5,Lekki, Lagos,-27.7618,37.4582,2023-11-06,sold
+PROP2106,4BR Bungalow,Apartment,Lease,221245,454,5,3,Kano, Kano,70.2481,28.6491,2024-09-12,available
+PROP2107,4BR Flat,Residence,lease-to-own,246412,349,1,5,Nasarawa, Kano,41.4373,-24.933,2023-10-01,sold
+PROP2108,1BR Duplex,Business,Lease,268104.95,102,2,4,Asokoro, Abuja FCT,-16.2197,-59.2881,2024-08-05,on hold
+PROP2109,4BR Flat,Duplex,Rent,319871,400,2,3,Kano, Kano,-81.3482,61.4482,2024-01-05,pending
+PROP2110,4BR Bungalow,Apartment,Rent,260051,119,4,3,Bonny, Rivers,-18.2356,96.1744,2025-05-14,pending
+PROP2111,3BR Duplex,Duplex,lease-to-own,321926,242,4,3,Wuse, Abuja FCT,18.1394,96.8179,2024-06-02,sold
+PROP2112,3BR Flat,Residence,Rent,294169.71,454,4,5,Yaba, Lagos,-77.0052,-155.3346,2023-08-31,on hold
+PROP2113,5BR Flat,Apartment,lease-to-own,252376.3,457,1,1,Ikorodu, Lagos,-65.5189,-128.8987,2023-06-15,sold
+PROP2114,3BR Duplex,Residential,Sale,455849,209,4,2,Ogbomosho, Oyo,61.2073,-175.4502,2024-10-01,pending
+PROP2115,2BR Bungalow,Commercial,Rent,309359,336,4,2,Ibadan, Oyo,58.5513,142.6589,2024-09-23,sold
+PROP2116,3BR Bungalow,Residential,Sale,439169,237,4,1,Surulere, Lagos,67.6692,-143.7437,2023-06-25,on hold
+PROP2117,2BR Bungalow,Duplex,Lease,342166,118,1,2,Obio-Akpor, Rivers,67.4205,160.5341,2025-01-27,available
+PROP2118,5BR Bungalow,Duplex,Rent,310934,300,2,3,Bonny, Rivers,-45.1812,19.6459,2023-09-21,available
+PROP2119,4BR Flat,Residential,Sale,437270,66,2,5,Maitama, Abuja FCT,-77.6569,73.2767,2024-03-23,sold
+PROP2120,4BR Bungalow,Commercial,lease-to-own,73695,202,4,3,Kano, Kano,-66.8111,116.9387,2024-06-03,available
+PROP2121,2BR Flat,Apartment,Lease,252376.3,355,3,3,Nasarawa, Kano,11.0055,-14.9065,2023-09-03,pending
+PROP2122,4BR Duplex,Commercial,Lease,233537.43,242,6,1,Port Harcourt, Rivers,81.0513,31.7157,2023-08-12,pending
+PROP2123,2BR Duplex,Commercial,lease-to-own,233537.43,195,5,5,Oyo Town, Oyo,31.3106,-14.4786,2025-04-07,on hold
+PROP2124,2BR Bungalow,Commercial,Lease,233537.43,385,3,1,Yaba, Lagos,34.0288,-125.2889,2025-02-28,sold
+PROP2125,5BR Flat,Apartment,lease-to-own,24869,406,4,2,Obio-Akpor, Rivers,33.7474,-152.8141,2023-10-23,available
+PROP2126,5BR Bungalow,Residential,Rent,247940.19,419,4,5,Ikorodu, Lagos,12.8149,-106.322,2024-05-05,sold
+PROP2127,1BR Flat,Apartment,Lease,428404,483,2,5,Nasarawa, Kano,-74.272,73.2336,2025-01-30,on hold
+PROP2128,3BR Duplex,Commercial,lease-to-own,233537.43,237,4,1,Bonny, Rivers,61.292,-103.7094,2025-03-25,available
+PROP2129,5BR Bungalow,Commercial,Lease,233537.43,90,2,5,Yaba, Lagos,7.9494,-141.0599,2024-03-31,on hold
+PROP2130,5BR Bungalow,Residential,Lease,369217,111,6,1,Obio-Akpor, Rivers,-7.6378,-21.8822,2025-01-01,on hold
+PROP2131,1BR Duplex,Duplex,Sale,267591.27,311,4,5,Ibadan, Oyo,80.7751,-132.3656,2025-01-01,pending
+PROP2132,3BR Duplex,Commercial,Rent,469569,461,2,3,Lekki, Lagos,-10.8361,-169.2207,2023-09-04,on hold
+PROP2133,4BR Flat,Business,Lease,268104.95,94,1,3,Surulere, Lagos,19.8652,117.4868,2024-11-09,pending
+PROP2134,2BR Bungalow,Residence,Sale,195645,386,6,3,Oyo Town, Oyo,-11.6675,-136.0109,2024-02-09,sold
+PROP2135,4BR Bungalow,Residential,Sale,284989,469,1,5,Lekki, Lagos,-49.4312,178.3444,2024-11-14,on hold
+PROP2136,2BR Flat,Apartment,Sale,101479,280,3,4,Ogbomosho, Oyo,-38.2655,-112.2544,2023-08-14,pending
+PROP2137,3BR Flat,Residential,Rent,247940.19,75,3,2,Bonny, Rivers,66.4112,-126.2034,2025-02-09,on hold
+PROP2138,4BR Duplex,Duplex,Sale,267591.27,466,1,2,Port Harcourt, Rivers,-8.6493,-13.0604,2024-01-18,sold
+PROP2139,4BR Flat,Residence,Rent,496213,193,2,1,Port Harcourt, Rivers,-6.4835,92.0836,2025-02-10,pending
+PROP2140,5BR Flat,Business,Lease,268104.95,339,4,3,Ikorodu, Lagos,57.9975,7.7759,2025-03-26,available
+PROP2141,2BR Bungalow,Commercial,Lease,299807,162,3,2,Ibadan, Oyo,-87.6115,74.529,2023-10-27,sold
+PROP2142,3BR Flat,Business,Sale,67320,169,1,5,Ikorodu, Lagos,69.3896,146.9813,2024-01-20,available
+PROP2143,2BR Flat,Apartment,Lease,252376.3,389,5,1,Oyo Town, Oyo,22.3579,37.2174,2024-04-11,pending
+PROP2144,4BR Duplex,Duplex,Lease,86767,50,5,1,Obio-Akpor, Rivers,85.6735,-132.0575,2023-12-05,pending
+PROP2145,1BR Bungalow,Duplex,Lease,254162,185,6,1,Yaba, Lagos,-75.4879,-99.0514,2023-09-29,pending
+PROP2146,4BR Flat,Business,Rent,268104.95,87,3,1,Bonny, Rivers,74.9481,52.847,2024-10-19,pending
+PROP2147,1BR Duplex,Duplex,Rent,267591.27,130,3,2,Port Harcourt, Rivers,68.0201,-15.6557,2025-03-15,on hold
+PROP2148,1BR Duplex,Residential,lease-to-own,247940.19,388,2,1,Ibadan, Oyo,-33.3091,-168.2354,2023-10-24,sold
+PROP2149,5BR Duplex,Commercial,Lease,233537.43,145,1,3,Port Harcourt, Rivers,79.1979,-175.0047,2024-02-03,on hold
+PROP2150,2BR Bungalow,Residential,lease-to-own,247940.19,401,5,2,Lekki, Lagos,57.1399,86.4784,2025-05-22,pending
+PROP2151,2BR Flat,Commercial,Sale,241970,399,6,2,Nasarawa, Kano,6.6944,-12.1167,2024-05-10,pending
+PROP2152,5BR Bungalow,Apartment,lease-to-own,252376.3,126,1,5,Obio-Akpor, Rivers,23.2099,168.3468,2023-09-25,pending
+PROP2153,2BR Bungalow,Apartment,lease-to-own,252376.3,500,1,4,Ogbomosho, Oyo,64.793,123.3386,2023-12-05,pending
+PROP2154,4BR Bungalow,Duplex,Sale,267591.27,471,6,4,Ogbomosho, Oyo,-25.3361,-2.3522,2024-01-17,available
+PROP2155,2BR Flat,Business,Sale,208940,238,5,4,Fagge, Kano,18.2975,41.3726,2024-08-14,available
+PROP2156,1BR Duplex,Residential,lease-to-own,46031,487,2,2,Port Harcourt, Rivers,31.4758,-118.7842,2023-12-04,pending
+PROP2157,3BR Duplex,Business,Lease,268104.95,288,6,5,Port Harcourt, Rivers,-38.8419,1.4267,2023-09-06,available
+PROP2158,3BR Duplex,Residence,Lease,118754,314,1,5,Nasarawa, Kano,22.3845,146.951,2025-05-26,pending
+PROP2159,3BR Bungalow,Duplex,Rent,267591.27,233,2,5,Ogbomosho, Oyo,2.689,-108.7724,2024-07-10,pending
+PROP2160,3BR Duplex,Residence,Lease,263144,290,4,2,Kano, Kano,-22.7405,-101.3869,2023-11-20,on hold
+PROP2161,2BR Flat,Business,Lease,350842,210,1,4,Maitama, Abuja FCT,80.1313,167.695,2024-03-26,sold
+PROP2162,1BR Flat,Apartment,Rent,252376.3,57,1,1,Lekki, Lagos,-79.2785,-97.4811,2023-07-24,sold
+PROP2163,3BR Duplex,Duplex,Lease,247365,300,2,2,Yaba, Lagos,-1.13,13.7019,2024-01-29,available
+PROP2164,3BR Bungalow,Apartment,Sale,331387,388,1,1,Surulere, Lagos,-14.0787,-166.7362,2025-05-22,on hold
+PROP2165,5BR Bungalow,Duplex,Rent,239585,311,3,1,Maitama, Abuja FCT,-34.8152,108.7046,2025-03-10,on hold
+PROP2166,2BR Bungalow,Business,Lease,142948,56,1,5,Kano, Kano,14.5561,-116.4851,2024-08-03,sold
+PROP2167,2BR Flat,Residence,Lease,294169.71,268,1,1,Oyo Town, Oyo,80.2003,-102.65,2024-03-30,sold
+PROP2168,4BR Duplex,Business,Lease,268104.95,485,4,2,Ogbomosho, Oyo,-75.4003,114.6622,2024-08-14,sold
+PROP2169,5BR Flat,Duplex,Rent,267591.27,260,1,1,Yaba, Lagos,61.8142,124.3317,2024-03-24,pending
+PROP2170,4BR Flat,Apartment,Sale,26105,484,4,2,Nasarawa, Kano,40.7204,116.1766,2024-10-28,on hold
+PROP2171,4BR Bungalow,Business,Sale,268104.95,278,4,1,Surulere, Lagos,68.2697,-23.771,2024-07-08,on hold
+PROP2172,2BR Duplex,Residence,lease-to-own,294169.71,416,1,2,Nasarawa, Kano,-19.0372,18.339,2024-11-15,pending
+PROP2173,3BR Bungalow,Commercial,Rent,233537.43,160,6,3,Fagge, Kano,85.4696,23.2156,2024-11-03,on hold
+PROP2174,1BR Bungalow,Business,lease-to-own,286512,404,6,2,Obio-Akpor, Rivers,-58.236,174.9305,2025-03-06,on hold
+PROP2175,2BR Flat,Business,Lease,268104.95,414,2,2,Bonny, Rivers,61.2915,162.3211,2023-06-29,pending
+PROP2176,5BR Bungalow,Duplex,lease-to-own,267591.27,483,1,5,Nasarawa, Kano,-85.554,-71.365,2024-11-27,available
+PROP2177,5BR Flat,Residence,lease-to-own,73729,381,2,5,Wuse, Abuja FCT,4.0914,136.2428,2025-02-28,available
+PROP2178,3BR Bungalow,Apartment,Rent,426924,200,6,1,Kano, Kano,23.6989,123.155,2024-01-15,sold
+PROP2179,1BR Duplex,Business,Rent,40940,215,6,5,Yaba, Lagos,-76.0272,-93.7044,2024-04-12,on hold
+PROP2180,5BR Duplex,Residential,Lease,135971,219,3,3,Oyo Town, Oyo,81.8769,85.412,2023-11-18,on hold
+PROP2181,4BR Duplex,Apartment,Lease,252376.3,461,4,1,Ogbomosho, Oyo,-71.5807,-131.5926,2024-08-14,sold
+PROP2182,5BR Bungalow,Duplex,lease-to-own,358984,432,1,4,Garki, Abuja FCT,54.3923,128.6438,2023-12-26,available
+PROP2183,4BR Duplex,Residence,Sale,224211,323,6,5,Oyo Town, Oyo,-87.39,-38.6152,2023-08-26,available
+PROP2184,2BR Bungalow,Commercial,Rent,233537.43,458,6,2,Oyo Town, Oyo,-61.3608,-115.6407,2025-05-29,pending
+PROP2185,2BR Bungalow,Duplex,Lease,267591.27,380,2,2,Ikeja, Lagos,15.6876,-86.1548,2024-12-08,pending
+PROP2186,2BR Bungalow,Apartment,lease-to-own,252376.3,115,1,3,Surulere, Lagos,9.9411,15.9998,2024-05-30,sold
+PROP2187,4BR Flat,Residential,Lease,149066,428,3,3,Nasarawa, Kano,-77.1931,33.8904,2023-07-31,pending
+PROP2188,3BR Flat,Apartment,Rent,158010,422,5,1,Ogbomosho, Oyo,74.7291,-26.1738,2024-06-09,sold
+PROP2189,3BR Flat,Business,Sale,268104.95,307,5,2,Fagge, Kano,7.4863,135.1002,2024-05-01,on hold
+PROP2190,1BR Bungalow,Commercial,Lease,233537.43,282,6,3,Ibadan, Oyo,28.96,156.3393,2024-07-28,pending
+PROP2191,3BR Duplex,Commercial,lease-to-own,233537.43,455,5,1,Nasarawa, Kano,39.2924,109.7321,2024-05-23,on hold
+PROP2192,2BR Duplex,Residence,Sale,294169.71,295,6,4,Ibadan, Oyo,-11.3692,140.514,2024-08-13,sold
+PROP2193,4BR Bungalow,Apartment,Sale,252376.3,160,5,4,Kano, Kano,84.0689,105.5854,2025-03-04,sold
+PROP2194,4BR Duplex,Commercial,Sale,28683,490,2,5,Wuse, Abuja FCT,-31.699,3.5631,2025-02-14,sold
+PROP2195,4BR Bungalow,Business,Lease,478659,321,2,4,Kano, Kano,-64.7777,99.7844,2024-11-13,pending
+PROP2196,3BR Flat,Residential,Sale,323031,53,6,2,Wuse, Abuja FCT,16.249,-49.4924,2023-06-21,on hold
+PROP2197,4BR Flat,Business,lease-to-own,268104.95,334,3,3,Fagge, Kano,11.4066,12.2897,2024-12-28,on hold
+PROP2198,5BR Bungalow,Duplex,Sale,267591.27,375,2,4,Obio-Akpor, Rivers,-84.9749,152.7175,2025-04-10,available
+PROP2199,5BR Flat,Commercial,lease-to-own,250147,485,2,1,Surulere, Lagos,-63.491,-162.9183,2025-03-25,sold
+PROP2200,5BR Flat,Apartment,Sale,406361,331,6,5,Lekki, Lagos,75.6068,-37.2913,2024-07-29,pending
+PROP2201,5BR Flat,Apartment,Lease,198240,312,5,5,Asokoro, Abuja FCT,24.6421,-124.1104,2023-10-22,on hold
+PROP2202,4BR Bungalow,Commercial,Rent,233537.43,261,6,3,Ogbomosho, Oyo,-80.6952,-27.2698,2024-07-21,pending
+PROP2203,2BR Duplex,Duplex,Rent,143134,496,2,2,Kano, Kano,-27.4561,-42.4301,2024-08-31,pending
+PROP2204,4BR Bungalow,Residence,lease-to-own,294169.71,253,1,5,Obio-Akpor, Rivers,79.7032,25.3461,2023-07-27,on hold
+PROP2205,4BR Bungalow,Residential,Lease,247940.19,330,2,3,Asokoro, Abuja FCT,17.1571,-39.0403,2023-08-20,pending
+PROP2206,5BR Bungalow,Commercial,Sale,233537.43,170,4,2,Asokoro, Abuja FCT,3.4982,-77.7316,2024-09-18,sold
+PROP2207,5BR Flat,Business,Sale,382043,160,4,1,Port Harcourt, Rivers,-8.0955,61.625,2024-06-14,pending
+PROP2208,5BR Bungalow,Duplex,Rent,267591.27,216,6,4,Fagge, Kano,14.3261,174.535,2025-04-06,on hold
+PROP2209,2BR Duplex,Residence,Lease,294169.71,380,3,4,Wuse, Abuja FCT,41.5153,31.2049,2025-01-13,on hold
+PROP2210,1BR Flat,Business,Sale,268104.95,318,1,3,Maitama, Abuja FCT,77.913,-57.9005,2024-09-01,available
+PROP2211,3BR Duplex,Business,lease-to-own,268104.95,330,6,5,Wuse, Abuja FCT,86.1559,123.2485,2023-08-06,on hold
+PROP2212,4BR Duplex,Commercial,Lease,25534,317,3,3,Fagge, Kano,75.6103,-36.7292,2024-09-27,available
+PROP2213,4BR Bungalow,Business,lease-to-own,151017,427,4,2,Yaba, Lagos,-72.2467,-84.9319,2025-06-04,available
+PROP2214,2BR Duplex,Residential,lease-to-own,247940.19,408,2,3,Nasarawa, Kano,-24.0396,98.4764,2025-01-06,sold
+PROP2215,1BR Duplex,Commercial,Lease,233537.43,459,3,4,Ikorodu, Lagos,67.1549,113.3501,2024-05-01,pending
+PROP2216,1BR Bungalow,Commercial,lease-to-own,233537.43,176,2,4,Port Harcourt, Rivers,-0.0223,123.596,2023-10-18,sold
+PROP2217,3BR Flat,Duplex,Rent,79207,272,1,2,Garki, Abuja FCT,42.464,-52.29,2023-11-30,available
+PROP2218,4BR Flat,Duplex,Lease,418228,80,6,5,Nasarawa, Kano,71.9432,-19.7754,2023-07-23,sold
+PROP2219,4BR Bungalow,Business,Lease,268104.95,147,5,3,Ogbomosho, Oyo,-53.8831,-114.4893,2024-12-05,on hold
+PROP2220,5BR Duplex,Duplex,Rent,482910,488,5,2,Kano, Kano,42.2057,-83.413,2025-05-01,available
+PROP2221,3BR Flat,Residential,Sale,42951,141,2,1,Nasarawa, Kano,-88.3542,-118.8844,2024-11-28,sold
+PROP2222,1BR Flat,Commercial,lease-to-own,486494,289,3,5,Nasarawa, Kano,-9.6455,123.3013,2024-12-29,pending
+PROP2223,1BR Bungalow,Commercial,lease-to-own,119331,319,5,2,Oyo Town, Oyo,-17.1205,42.1945,2023-08-21,available
+PROP2224,5BR Duplex,Residence,Lease,294169.71,240,6,4,Port Harcourt, Rivers,-51.5345,-127.2516,2025-03-14,sold
+PROP2225,1BR Duplex,Apartment,Sale,291376,53,2,2,Nasarawa, Kano,-38.3139,-26.1503,2024-01-15,available
+PROP2226,2BR Flat,Residence,Lease,486419,181,1,5,Nasarawa, Kano,-82.2173,72.7242,2025-05-16,sold
+PROP2227,1BR Duplex,Residence,lease-to-own,238377,495,6,5,Asokoro, Abuja FCT,62.4148,-109.2429,2023-08-29,on hold
+PROP2228,5BR Bungalow,Apartment,Sale,252376.3,452,2,2,Nasarawa, Kano,38.4872,67.6272,2025-04-01,available
+PROP2229,2BR Duplex,Business,Rent,314213,86,4,3,Bonny, Rivers,26.8644,124.5192,2024-12-05,available
+PROP2230,4BR Bungalow,Commercial,lease-to-own,43528,400,2,1,Ibadan, Oyo,-65.6977,-63.1706,2025-05-16,available
+PROP2231,5BR Flat,Commercial,Lease,233537.43,368,6,1,Ikorodu, Lagos,74.1458,94.0317,2024-04-23,available
+PROP2232,1BR Flat,Residence,lease-to-own,294169.71,310,3,4,Wuse, Abuja FCT,87.8352,-86.9012,2023-11-08,sold
+PROP2233,1BR Duplex,Duplex,Lease,267591.27,306,1,3,Ikeja, Lagos,21.6304,64.8285,2025-05-09,available
+PROP2234,2BR Duplex,Commercial,Rent,233537.43,218,5,2,Ogbomosho, Oyo,-81.0176,-159.6714,2024-12-13,sold
+PROP2235,3BR Flat,Apartment,Sale,252376.3,479,6,1,Oyo Town, Oyo,23.0157,9.4695,2025-02-23,on hold
+PROP2236,5BR Bungalow,Apartment,Rent,332664,168,3,1,Maitama, Abuja FCT,-14.5772,-32.2439,2025-04-11,sold
+PROP2237,4BR Flat,Residence,lease-to-own,136682,437,2,4,Asokoro, Abuja FCT,28.1613,162.2953,2023-10-22,pending
+PROP2238,5BR Bungalow,Duplex,Sale,292970,281,2,5,Port Harcourt, Rivers,-12.4779,60.9587,2024-04-06,available
+PROP2239,5BR Flat,Duplex,Rent,267591.27,96,2,5,Ogbomosho, Oyo,68.0345,-75.3501,2024-11-22,on hold
+PROP2240,1BR Flat,Residential,lease-to-own,247940.19,318,6,5,Asokoro, Abuja FCT,86.1996,167.8418,2025-05-10,on hold
+PROP2241,3BR Duplex,Duplex,lease-to-own,171404,110,1,5,Oyo Town, Oyo,-0.7037,-147.7563,2024-01-01,available
+PROP2242,4BR Duplex,Residential,Sale,247940.19,367,1,2,Surulere, Lagos,-50.0422,170.5044,2025-06-08,available
+PROP2243,2BR Flat,Duplex,Lease,340387,433,1,1,Surulere, Lagos,17.5392,-150.3676,2024-10-18,pending
+PROP2244,4BR Bungalow,Commercial,Rent,340892,105,4,5,Kano, Kano,-38.1671,-166.3825,2024-12-25,on hold
+PROP2245,2BR Bungalow,Commercial,Lease,121478,62,6,1,Nasarawa, Kano,-50.0156,131.0339,2023-07-13,on hold
+PROP2246,3BR Bungalow,Apartment,Lease,422145,401,3,4,Nasarawa, Kano,43.4509,139.4261,2023-08-03,sold
+PROP2247,3BR Duplex,Business,Sale,268104.95,421,5,5,Port Harcourt, Rivers,27.7522,-49.1943,2023-09-26,sold
+PROP2248,5BR Bungalow,Business,Rent,332051,450,6,3,Lekki, Lagos,-55.9376,-69.3186,2024-01-11,pending
+PROP2249,2BR Flat,Business,Sale,268104.95,306,3,4,Ogbomosho, Oyo,-37.999,-119.5059,2025-02-22,pending
+PROP2250,1BR Duplex,Business,Sale,268104.95,345,6,2,Yaba, Lagos,-47.575,-164.3957,2024-06-25,sold
+PROP2251,5BR Bungalow,Apartment,Sale,252376.3,213,2,3,Ogbomosho, Oyo,-51.0926,-63.9472,2023-10-31,sold
+PROP2252,1BR Duplex,Business,Rent,268104.95,232,3,2,Port Harcourt, Rivers,-44.3833,130.3766,2023-08-21,on hold
+PROP2253,3BR Duplex,Business,Rent,268104.95,490,4,4,Yaba, Lagos,52.5719,31.699,2024-05-31,available
+PROP2254,1BR Duplex,Apartment,Sale,252376.3,286,5,4,Port Harcourt, Rivers,80.0276,-179.2679,2024-04-08,sold
+PROP2255,2BR Flat,Duplex,Sale,267591.27,353,3,5,Ikorodu, Lagos,-72.0132,121.0548,2024-03-01,on hold
+PROP2256,2BR Flat,Apartment,Sale,416926,126,5,3,Kano, Kano,32.9096,-133.1265,2023-08-16,on hold
+PROP2257,5BR Duplex,Commercial,Lease,233537.43,331,6,5,Nasarawa, Kano,0.1614,41.0253,2024-09-06,available
+PROP2258,5BR Flat,Duplex,Rent,268969,334,3,4,Obio-Akpor, Rivers,76.0623,-93.6766,2023-11-03,pending
+PROP2259,1BR Flat,Duplex,lease-to-own,267591.27,406,5,2,Ikeja, Lagos,-57.3878,-166.6184,2024-04-24,on hold
+PROP2260,4BR Bungalow,Apartment,Lease,37543,297,1,5,Maitama, Abuja FCT,17.8117,151.5296,2025-03-29,available
+PROP2261,5BR Bungalow,Residence,Sale,294169.71,323,4,4,Kano, Kano,13.6463,20.1622,2023-06-24,pending
+PROP2262,5BR Flat,Duplex,Lease,444094,196,2,5,Garki, Abuja FCT,-66.8936,-102.8842,2024-06-17,pending
+PROP2263,2BR Duplex,Duplex,Rent,274236,459,3,1,Ibadan, Oyo,-8.4186,85.2682,2023-12-06,sold
+PROP2264,1BR Flat,Commercial,lease-to-own,233537.43,204,4,4,Asokoro, Abuja FCT,27.0562,-41.5348,2024-10-14,pending
+PROP2265,5BR Bungalow,Residence,Lease,294169.71,100,6,5,Ogbomosho, Oyo,78.5855,-81.6197,2025-01-28,on hold
+PROP2266,1BR Bungalow,Residential,lease-to-own,204295,195,2,1,Wuse, Abuja FCT,-62.5074,-63.0286,2023-12-03,available
+PROP2267,1BR Bungalow,Commercial,Lease,233537.43,88,3,4,Ikeja, Lagos,-51.7857,-58.3588,2024-02-08,pending
+PROP2268,4BR Flat,Apartment,lease-to-own,252376.3,123,2,5,Bonny, Rivers,-64.095,-113.5388,2024-09-13,on hold
+PROP2269,1BR Bungalow,Business,Lease,268104.95,250,5,4,Ikeja, Lagos,45.3439,74.8609,2024-03-25,on hold
+PROP2270,3BR Duplex,Residential,Sale,247940.19,480,3,2,Garki, Abuja FCT,-13.8686,65.3209,2024-11-29,available
+PROP2271,2BR Flat,Residential,Rent,33298,300,5,3,Port Harcourt, Rivers,-72.6294,15.2653,2023-11-16,on hold
+PROP2272,5BR Flat,Duplex,Rent,57766,122,6,1,Oyo Town, Oyo,-50.4396,64.0802,2023-09-06,available
+PROP2273,1BR Flat,Business,Rent,53087,222,3,1,Garki, Abuja FCT,41.6006,91.0096,2024-03-07,pending
+PROP2274,5BR Flat,Business,Rent,325128,101,2,1,Wuse, Abuja FCT,-60.638,125.4018,2024-11-20,available
+PROP2275,4BR Duplex,Commercial,Rent,340097,142,5,1,Fagge, Kano,3.6509,133.5149,2023-07-05,pending
+PROP2276,2BR Duplex,Residential,Rent,79076,482,4,2,Surulere, Lagos,48.1798,46.1153,2024-12-06,available
+PROP2277,2BR Flat,Business,Sale,57150,277,4,2,Asokoro, Abuja FCT,80.5758,-139.5622,2025-03-28,sold
+PROP2278,4BR Flat,Business,Rent,268104.95,248,2,4,Lekki, Lagos,-33.6986,6.4641,2025-03-15,pending
+PROP2279,2BR Duplex,Commercial,Lease,336479,454,5,5,Surulere, Lagos,26.427,123.9314,2024-07-24,available
+PROP2280,4BR Bungalow,Commercial,Rent,499070,263,4,5,Fagge, Kano,-6.6399,69.1938,2024-05-18,on hold
+PROP2281,3BR Flat,Duplex,Sale,267591.27,392,6,4,Bonny, Rivers,86.4777,-131.5172,2023-12-15,on hold
+PROP2282,3BR Duplex,Residence,Rent,432977,500,6,1,Oyo Town, Oyo,53.2023,21.1682,2024-12-09,available
+PROP2283,2BR Flat,Residence,Rent,302923,382,6,2,Kano, Kano,-57.2364,107.178,2025-04-18,pending
+PROP2284,4BR Bungalow,Apartment,Lease,252376.3,459,2,4,Ikeja, Lagos,36.4576,41.7069,2025-04-26,available
+PROP2285,1BR Duplex,Business,Rent,268104.95,265,3,2,Lekki, Lagos,69.455,40.2868,2024-06-20,available
+PROP2286,4BR Duplex,Residence,Rent,294169.71,454,2,4,Fagge, Kano,-44.6999,-153.273,2024-04-21,pending
+PROP2287,2BR Flat,Commercial,Sale,233537.43,114,3,3,Ogbomosho, Oyo,-12.7008,85.3045,2024-05-15,sold
+PROP2288,4BR Duplex,Commercial,lease-to-own,187886,428,6,3,Ibadan, Oyo,23.6263,140.6171,2023-12-31,pending
+PROP2289,1BR Duplex,Apartment,Rent,252376.3,97,5,2,Bonny, Rivers,60.2058,-157.9212,2024-01-03,pending
+PROP2290,5BR Bungalow,Residential,Lease,228434,487,3,4,Obio-Akpor, Rivers,48.7738,-11.9539,2024-05-18,available
+PROP2291,4BR Bungalow,Business,Rent,458048,156,4,5,Obio-Akpor, Rivers,42.3356,-119.6069,2025-04-01,available
+PROP2292,2BR Flat,Business,Lease,268104.95,471,5,3,Obio-Akpor, Rivers,15.8092,20.5526,2024-09-15,on hold
+PROP2293,2BR Flat,Residential,Lease,278500,431,5,4,Ogbomosho, Oyo,-14.0451,-6.499,2025-02-23,pending
+PROP2294,3BR Duplex,Duplex,Rent,207372,189,4,3,Oyo Town, Oyo,41.7602,52.1207,2023-09-24,pending
+PROP2295,3BR Bungalow,Duplex,Lease,267591.27,471,2,5,Maitama, Abuja FCT,-48.3738,85.9241,2024-07-28,pending
+PROP2296,4BR Duplex,Residential,Sale,449310,295,3,3,Garki, Abuja FCT,20.8691,-129.2741,2024-12-25,on hold
+PROP2297,2BR Flat,Residential,lease-to-own,382187,59,4,1,Ibadan, Oyo,-39.7511,-66.6835,2025-01-15,available
+PROP2298,2BR Bungalow,Commercial,Rent,233537.43,64,6,3,Ikorodu, Lagos,-66.4756,-112.8431,2023-09-27,pending
+PROP2299,2BR Bungalow,Residential,Sale,247940.19,237,4,1,Kano, Kano,29.5252,80.4075,2025-04-12,pending
+PROP2300,4BR Duplex,Duplex,Lease,312097,217,1,4,Asokoro, Abuja FCT,-27.7483,-147.4094,2024-07-29,on hold
+PROP2301,1BR Bungalow,Business,Sale,268104.95,317,1,2,Asokoro, Abuja FCT,-54.7924,-22.4853,2024-12-27,on hold
+PROP2302,4BR Bungalow,Business,Lease,268104.95,454,3,4,Ikorodu, Lagos,59.4731,-154.7406,2023-06-29,on hold
+PROP2303,1BR Bungalow,Residential,Sale,281166,245,2,3,Ikeja, Lagos,-49.4184,96.6965,2023-09-03,available
+PROP2304,5BR Bungalow,Residential,Sale,245656,280,4,4,Wuse, Abuja FCT,83.7027,15.2798,2024-02-29,available
+PROP2305,4BR Bungalow,Apartment,lease-to-own,269514,78,3,4,Bonny, Rivers,-52.9574,50.2225,2024-05-01,pending
+PROP2306,4BR Flat,Business,Lease,268104.95,229,2,2,Surulere, Lagos,79.5459,174.5289,2025-04-25,available
+PROP2307,5BR Duplex,Residence,Sale,294169.71,61,4,5,Ikorodu, Lagos,14.6881,-112.3512,2024-07-23,pending
+PROP2308,4BR Flat,Business,Sale,460601,197,3,5,Wuse, Abuja FCT,5.1532,-113.5284,2023-07-22,sold
+PROP2309,2BR Duplex,Residential,Lease,247940.19,389,2,4,Surulere, Lagos,6.977,63.9056,2023-08-30,pending
+PROP2310,3BR Bungalow,Apartment,lease-to-own,316808,152,4,2,Garki, Abuja FCT,41.4102,43.8335,2024-07-11,sold
+PROP2311,5BR Flat,Business,Rent,79537,148,3,4,Bonny, Rivers,-11.085,80.8793,2023-07-06,on hold
+PROP2312,1BR Bungalow,Business,Sale,49007,358,1,4,Wuse, Abuja FCT,31.4333,1.3675,2025-02-10,available
+PROP2313,1BR Duplex,Residence,lease-to-own,442493,266,1,2,Surulere, Lagos,-83.3417,127.0874,2024-08-23,pending
+PROP2314,2BR Duplex,Commercial,Lease,233537.43,470,6,5,Yaba, Lagos,68.0798,-155.8496,2024-03-05,available
+PROP2315,1BR Duplex,Residence,Lease,67317,202,4,3,Fagge, Kano,-9.9997,29.3473,2023-08-30,available
+PROP2316,4BR Bungalow,Duplex,Lease,257639,440,6,4,Bonny, Rivers,19.2738,-144.8574,2024-04-26,available
+PROP2317,4BR Duplex,Business,lease-to-own,477968,138,3,2,Kano, Kano,-89.7313,69.4582,2024-11-03,on hold
+PROP2318,2BR Flat,Business,lease-to-own,268104.95,95,2,5,Kano, Kano,45.5117,-9.1119,2024-01-04,available
+PROP2319,2BR Duplex,Commercial,Rent,233537.43,422,4,2,Port Harcourt, Rivers,29.5012,-113.7418,2024-03-15,sold
+PROP2320,3BR Bungalow,Business,Rent,268104.95,266,1,1,Fagge, Kano,-80.1226,-29.2701,2023-11-24,available
+PROP2321,3BR Duplex,Duplex,Lease,89330,141,2,5,Nasarawa, Kano,-38.5002,-167.5889,2024-12-04,pending
+PROP2322,2BR Duplex,Residence,Lease,294169.71,184,5,3,Oyo Town, Oyo,-78.3325,-59.4466,2023-07-21,sold
+PROP2323,2BR Flat,Business,Lease,268104.95,109,1,4,Nasarawa, Kano,-0.2613,-45.5624,2023-12-23,on hold
+PROP2324,5BR Bungalow,Apartment,Rent,325946,319,4,1,Ikorodu, Lagos,-75.2927,-18.149,2024-05-15,on hold
+PROP2325,1BR Flat,Business,lease-to-own,268104.95,354,3,1,Oyo Town, Oyo,-38.027,127.7409,2023-09-20,pending
+PROP2326,4BR Duplex,Commercial,Rent,233537.43,95,2,4,Ikorodu, Lagos,71.955,4.0932,2024-01-27,pending
+PROP2327,5BR Flat,Business,lease-to-own,268104.95,187,1,4,Ogbomosho, Oyo,75.3839,-19.1365,2024-05-05,sold
+PROP2328,1BR Duplex,Business,lease-to-own,268104.95,203,6,3,Surulere, Lagos,7.393,-174.6892,2023-07-08,on hold
+PROP2329,3BR Duplex,Residence,Sale,422992,429,2,2,Ikeja, Lagos,0.8341,-67.1297,2024-02-06,available
+PROP2330,1BR Bungalow,Apartment,Lease,476977,272,1,4,Nasarawa, Kano,-39.2383,107.4774,2024-02-24,available
+PROP2331,4BR Duplex,Residential,Rent,90838,147,6,2,Obio-Akpor, Rivers,10.3623,102.1126,2024-06-16,sold
+PROP2332,4BR Flat,Residential,Rent,493125,409,4,4,Obio-Akpor, Rivers,0.2947,48.762,2024-05-15,on hold
+PROP2333,4BR Bungalow,Apartment,Lease,252376.3,298,2,1,Fagge, Kano,-0.4076,-74.4263,2024-02-05,on hold
+PROP2334,3BR Bungalow,Commercial,lease-to-own,233537.43,168,5,3,Bonny, Rivers,1.4451,-133.8957,2024-02-13,sold
+PROP2335,2BR Flat,Commercial,lease-to-own,233537.43,302,2,5,Ogbomosho, Oyo,54.312,-19.1335,2023-07-03,available
+PROP2336,5BR Flat,Business,Lease,268104.95,73,2,5,Garki, Abuja FCT,-81.3942,143.9285,2023-11-07,available
+PROP2337,1BR Flat,Residence,Rent,294169.71,276,6,1,Nasarawa, Kano,54.003,44.6339,2024-04-12,pending
+PROP2338,1BR Duplex,Residence,lease-to-own,209081,435,2,2,Bonny, Rivers,33.5352,68.4077,2024-09-04,on hold
+PROP2339,3BR Duplex,Commercial,lease-to-own,233537.43,438,5,1,Ibadan, Oyo,15.6431,-156.5578,2023-12-18,on hold
+PROP2340,5BR Bungalow,Duplex,lease-to-own,267591.27,450,2,3,Ibadan, Oyo,20.0843,62.0944,2023-11-23,available
+PROP2341,3BR Bungalow,Commercial,Sale,233537.43,476,6,4,Nasarawa, Kano,27.5005,-104.7008,2025-03-29,available
+PROP2342,3BR Flat,Duplex,Rent,267591.27,195,6,4,Ibadan, Oyo,14.8558,-14.4697,2024-09-21,available
+PROP2343,2BR Duplex,Commercial,lease-to-own,233537.43,319,5,5,Port Harcourt, Rivers,55.4122,32.0983,2025-06-13,pending
+PROP2344,4BR Flat,Duplex,Sale,384102,283,6,2,Obio-Akpor, Rivers,-62.6696,107.8603,2025-02-18,available
+PROP2345,3BR Duplex,Business,Sale,434818,451,1,3,Oyo Town, Oyo,12.642,94.3551,2024-10-24,sold
+PROP2346,5BR Duplex,Residence,lease-to-own,269156,120,4,4,Surulere, Lagos,-26.0952,141.0892,2023-09-27,pending
+PROP2347,1BR Bungalow,Duplex,Lease,314148,379,2,5,Asokoro, Abuja FCT,41.9742,-142.4271,2024-10-19,sold
+PROP2348,5BR Bungalow,Residence,lease-to-own,328749,301,3,4,Kano, Kano,23.4669,91.2769,2025-01-25,on hold
+PROP2349,1BR Flat,Residence,lease-to-own,375786,364,2,1,Ibadan, Oyo,-48.4665,-78.1954,2025-04-14,pending
+PROP2350,5BR Flat,Business,lease-to-own,268104.95,212,5,4,Bonny, Rivers,46.797,82.3269,2024-12-06,on hold
+PROP2351,5BR Duplex,Business,Sale,463693,122,5,2,Oyo Town, Oyo,49.1937,-78.6263,2025-03-20,on hold
+PROP2352,5BR Duplex,Duplex,lease-to-own,204244,480,1,2,Yaba, Lagos,-71.2521,44.3259,2024-11-04,pending
+PROP2353,4BR Duplex,Commercial,Lease,199112,356,1,2,Fagge, Kano,78.2654,155.2337,2023-10-22,on hold
+PROP2354,4BR Bungalow,Residential,Lease,247940.19,357,4,2,Nasarawa, Kano,40.4398,74.0644,2024-05-13,available
+PROP2355,2BR Flat,Business,Lease,268104.95,302,1,2,Lekki, Lagos,-23.2837,17.7993,2024-05-31,available
+PROP2356,1BR Flat,Residence,Rent,294169.71,148,6,5,Kano, Kano,3.5052,49.7358,2025-06-13,on hold
+PROP2357,2BR Flat,Residence,lease-to-own,294169.71,52,2,3,Bonny, Rivers,87.8766,110.2689,2023-11-26,available
+PROP2358,4BR Duplex,Residential,Lease,247940.19,105,2,3,Maitama, Abuja FCT,64.6113,142.4873,2024-03-07,pending
+PROP2359,3BR Bungalow,Residential,Rent,247940.19,204,1,1,Fagge, Kano,-6.5706,-146.7758,2023-11-09,available
+PROP2360,5BR Bungalow,Residential,Lease,361270,314,5,2,Fagge, Kano,70.7607,-8.1265,2024-11-30,available
+PROP2361,2BR Flat,Commercial,Sale,51714,349,5,3,Maitama, Abuja FCT,15.3034,1.1457,2024-05-08,sold
+PROP2362,1BR Duplex,Residence,Rent,125052,85,2,4,Ogbomosho, Oyo,64.9295,-106.1475,2024-05-23,pending
+PROP2363,1BR Bungalow,Commercial,Rent,264599,296,6,4,Ogbomosho, Oyo,69.2876,52.9061,2024-12-27,on hold
+PROP2364,5BR Duplex,Residential,Sale,124397,195,3,2,Ikorodu, Lagos,-58.693,-135.6346,2023-09-17,sold
+PROP2365,4BR Flat,Residence,Lease,366506,459,6,1,Ibadan, Oyo,-40.369,37.6102,2024-08-19,sold
+PROP2366,2BR Bungalow,Residence,Rent,191799,372,2,5,Fagge, Kano,7.5923,112.2871,2023-10-26,sold
+PROP2367,3BR Bungalow,Residence,lease-to-own,294169.71,187,6,5,Lekki, Lagos,-53.9738,143.2738,2024-09-16,sold
+PROP2368,5BR Flat,Commercial,Sale,233537.43,315,5,1,Port Harcourt, Rivers,83.2942,-76.5839,2024-12-20,pending
+PROP2369,2BR Duplex,Duplex,Sale,208268,200,3,2,Bonny, Rivers,-16.6492,-101.4399,2023-06-22,available
+PROP2370,5BR Duplex,Residential,Lease,247940.19,256,5,1,Wuse, Abuja FCT,14.5726,-83.0022,2024-03-09,sold
+PROP2371,2BR Duplex,Duplex,lease-to-own,267591.27,280,3,2,Asokoro, Abuja FCT,73.3975,44.5429,2024-05-20,pending
+PROP2372,1BR Bungalow,Residential,Rent,247940.19,372,4,2,Ibadan, Oyo,64.4354,-149.1774,2023-08-19,available
+PROP2373,2BR Flat,Duplex,lease-to-own,34071,85,3,2,Ikorodu, Lagos,73.5292,-157.2603,2023-10-23,pending
+PROP2374,1BR Flat,Apartment,lease-to-own,270741,249,2,2,Ikorodu, Lagos,-8.1756,165.1938,2024-07-19,on hold
+PROP2375,1BR Flat,Business,Sale,268104.95,359,5,3,Nasarawa, Kano,-56.7562,81.6774,2023-06-20,on hold
+PROP2376,2BR Flat,Apartment,lease-to-own,252376.3,387,4,1,Oyo Town, Oyo,6.4319,-73.4501,2024-01-22,sold
+PROP2377,4BR Duplex,Commercial,Lease,128722,286,6,4,Asokoro, Abuja FCT,-56.144,-96.494,2024-03-08,pending
+PROP2378,4BR Flat,Residential,Rent,247940.19,291,2,2,Ikeja, Lagos,44.8442,148.0821,2025-04-08,available
+PROP2379,2BR Bungalow,Residential,Rent,251765,478,4,3,Port Harcourt, Rivers,82.8384,-152.2677,2024-02-06,available
+PROP2380,1BR Duplex,Commercial,Sale,135641,458,6,2,Maitama, Abuja FCT,25.6709,-80.7648,2024-03-23,on hold
+PROP2381,2BR Flat,Residential,Lease,189537,255,1,4,Nasarawa, Kano,-38.2114,59.3208,2024-08-12,on hold
+PROP2382,5BR Bungalow,Commercial,Lease,233537.43,406,6,2,Ibadan, Oyo,70.8341,-32.8176,2024-12-07,sold
+PROP2383,5BR Bungalow,Residential,Rent,31121,171,2,5,Ikorodu, Lagos,68.9441,-175.2426,2024-07-10,available
+PROP2384,2BR Duplex,Residence,Sale,294169.71,466,1,2,Maitama, Abuja FCT,9.0823,-5.7522,2023-08-18,pending
+PROP2385,4BR Flat,Commercial,Sale,352590,154,2,5,Asokoro, Abuja FCT,28.6981,-61.5453,2023-11-20,sold
+PROP2386,3BR Bungalow,Business,Rent,268104.95,234,4,2,Ibadan, Oyo,83.8292,-28.5786,2023-07-01,on hold
+PROP2387,5BR Bungalow,Commercial,Lease,233537.43,282,4,5,Port Harcourt, Rivers,-67.56,-36.303,2023-10-03,available
+PROP2388,3BR Duplex,Business,Lease,356094,259,4,5,Maitama, Abuja FCT,-10.3449,-124.9352,2023-10-03,sold
+PROP2389,4BR Flat,Residence,Sale,385675,359,6,2,Nasarawa, Kano,-0.4164,-116.4608,2024-03-21,sold
+PROP2390,4BR Flat,Business,Lease,268104.95,322,5,3,Ikeja, Lagos,-4.0319,-100.6611,2024-04-13,available
+PROP2391,1BR Flat,Duplex,lease-to-own,267591.27,197,2,2,Oyo Town, Oyo,80.8871,-0.9723,2023-09-30,sold
+PROP2392,2BR Duplex,Business,lease-to-own,348643,494,1,3,Garki, Abuja FCT,-35.4325,-170.7902,2024-06-17,on hold
+PROP2393,1BR Bungalow,Apartment,Sale,70773,317,4,5,Surulere, Lagos,-51.5932,22.6477,2025-01-04,on hold
+PROP2394,5BR Flat,Residence,Lease,442717,283,6,2,Oyo Town, Oyo,29.1783,166.1997,2023-09-09,available
+PROP2395,3BR Flat,Duplex,Lease,267591.27,360,4,5,Ogbomosho, Oyo,-74.9685,-62.4755,2025-03-14,pending
+PROP2396,5BR Duplex,Commercial,lease-to-own,233537.43,389,2,2,Oyo Town, Oyo,-61.4211,-144.932,2023-06-23,available
+PROP2397,4BR Flat,Duplex,Lease,477147,344,6,3,Ogbomosho, Oyo,-55.2331,-127.7196,2024-02-27,on hold
+PROP2398,1BR Bungalow,Residence,Rent,294169.71,244,3,1,Wuse, Abuja FCT,30.1196,-109.5638,2024-03-20,on hold
+PROP2399,4BR Duplex,Commercial,Lease,458942,398,2,5,Nasarawa, Kano,-46.6551,-143.4059,2024-01-18,sold
+PROP2400,3BR Bungalow,Business,Sale,268104.95,128,6,2,Ogbomosho, Oyo,-55.3761,56.6676,2025-04-01,sold
+PROP2401,4BR Flat,Apartment,Lease,168040,488,1,2,Garki, Abuja FCT,89.6237,-129.8009,2024-03-12,available
+PROP2402,1BR Duplex,Duplex,Sale,375633,242,1,1,Maitama, Abuja FCT,56.3191,-96.3871,2024-06-14,on hold
+PROP2403,4BR Duplex,Residence,Rent,294169.71,447,4,4,Oyo Town, Oyo,18.7347,-136.1328,2024-02-01,on hold
+PROP2404,4BR Duplex,Duplex,Sale,436464,297,3,5,Ikeja, Lagos,27.2483,10.424,2025-03-15,available
+PROP2405,1BR Flat,Duplex,Sale,114720,334,3,1,Yaba, Lagos,49.7721,-178.026,2024-10-19,sold
+PROP2406,2BR Duplex,Duplex,Sale,267591.27,315,6,5,Fagge, Kano,21.1467,40.3247,2024-03-14,sold
+PROP2407,1BR Flat,Commercial,Lease,468835,118,5,3,Oyo Town, Oyo,-62.1332,-131.876,2024-10-31,sold
+PROP2408,4BR Bungalow,Commercial,Rent,233537.43,374,6,3,Fagge, Kano,4.1171,69.0797,2024-12-12,on hold
+PROP2409,5BR Duplex,Residential,Lease,355637,220,2,2,Port Harcourt, Rivers,-0.05,-88.5114,2024-09-01,available
+PROP2410,3BR Bungalow,Apartment,Lease,252376.3,361,2,3,Ikeja, Lagos,-3.4552,-70.6058,2023-08-26,sold
+PROP2411,3BR Flat,Duplex,Lease,390935,361,6,4,Kano, Kano,78.4266,-167.5764,2025-04-18,on hold
+PROP2412,1BR Flat,Duplex,Rent,69090,344,6,3,Obio-Akpor, Rivers,-46.7541,-83.4672,2024-02-02,available
+PROP2413,1BR Bungalow,Business,Lease,148044,360,6,5,Obio-Akpor, Rivers,-82.0818,-4.1534,2023-08-18,sold
+PROP2414,2BR Bungalow,Residential,Lease,247940.19,200,1,5,Ibadan, Oyo,15.4484,-124.7589,2024-09-10,sold
+PROP2415,3BR Flat,Residential,Lease,486719,255,1,4,Fagge, Kano,-45.1044,-161.8752,2024-07-16,sold
+PROP2416,3BR Duplex,Business,Rent,268104.95,274,2,2,Yaba, Lagos,-1.7198,-65.2318,2024-06-10,on hold
+PROP2417,2BR Duplex,Duplex,Lease,267591.27,331,6,2,Wuse, Abuja FCT,23.075,-115.9733,2023-09-19,on hold
+PROP2418,1BR Bungalow,Residence,lease-to-own,333045,295,3,4,Ikeja, Lagos,0.5674,166.1613,2024-06-13,on hold
+PROP2419,4BR Bungalow,Residential,Rent,118916,167,4,1,Maitama, Abuja FCT,-62.42,-164.276,2023-12-05,sold
+PROP2420,3BR Duplex,Business,Sale,268104.95,76,1,3,Garki, Abuja FCT,11.8864,-35.0921,2024-12-08,pending
+PROP2421,3BR Duplex,Residence,Sale,245919,301,3,3,Ibadan, Oyo,-19.1835,-20.9605,2024-08-21,available
+PROP2422,5BR Duplex,Residential,Sale,88411,71,2,4,Oyo Town, Oyo,-55.0871,-62.5408,2024-05-31,available
+PROP2423,3BR Bungalow,Residence,Lease,255133,84,4,5,Port Harcourt, Rivers,-39.7946,-36.7861,2024-11-10,sold
+PROP2424,2BR Duplex,Apartment,lease-to-own,252376.3,360,2,2,Surulere, Lagos,-60.691,-153.2255,2023-09-09,sold
+PROP2425,1BR Flat,Commercial,Sale,299742,199,3,2,Obio-Akpor, Rivers,-40.3183,90.175,2025-05-20,available
+PROP2426,2BR Duplex,Apartment,Lease,190202,370,3,2,Ikeja, Lagos,37.1928,133.081,2023-06-15,sold
+PROP2427,2BR Bungalow,Duplex,lease-to-own,267591.27,423,3,2,Oyo Town, Oyo,-86.3597,9.3148,2024-02-03,available
+PROP2428,2BR Duplex,Duplex,Rent,56413,86,4,4,Maitama, Abuja FCT,-37.9659,22.8182,2024-01-13,sold
+PROP2429,2BR Bungalow,Apartment,Sale,435446,104,6,1,Port Harcourt, Rivers,-12.5809,-120.8419,2025-06-04,sold
+PROP2430,5BR Flat,Residential,Sale,247940.19,311,2,1,Ogbomosho, Oyo,-53.0314,8.022,2024-11-12,available
+PROP2431,2BR Flat,Residence,Lease,294169.71,110,1,5,Oyo Town, Oyo,65.2006,-105.2803,2023-09-28,sold
+PROP2432,3BR Duplex,Duplex,Sale,433587,491,3,2,Asokoro, Abuja FCT,-82.5716,120.062,2023-07-05,on hold
+PROP2433,3BR Duplex,Business,lease-to-own,268104.95,456,2,2,Fagge, Kano,-67.2745,-150.637,2024-01-10,on hold
+PROP2434,1BR Flat,Residence,Sale,126577,335,2,1,Kano, Kano,-9.2299,157.2835,2025-03-01,pending
+PROP2435,4BR Bungalow,Residential,lease-to-own,214869,409,4,5,Asokoro, Abuja FCT,-20.1339,148.973,2024-10-06,available
+PROP2436,5BR Bungalow,Residence,lease-to-own,294169.71,277,3,1,Garki, Abuja FCT,-61.1873,69.0886,2023-10-08,available
+PROP2437,2BR Duplex,Commercial,Lease,233537.43,114,4,5,Maitama, Abuja FCT,45.0782,-66.8383,2024-04-13,sold
+PROP2438,4BR Flat,Residence,Sale,74735,358,1,2,Bonny, Rivers,46.0915,173.747,2024-07-27,sold
+PROP2439,5BR Bungalow,Residential,lease-to-own,43949,97,1,3,Kano, Kano,-72.7208,-146.7534,2024-10-02,on hold
+PROP2440,1BR Bungalow,Business,lease-to-own,327420,198,6,4,Ibadan, Oyo,-38.381,-133.8193,2024-10-15,available
+PROP2441,1BR Bungalow,Duplex,lease-to-own,145362,362,2,5,Wuse, Abuja FCT,77.8985,21.9269,2025-04-23,available
+PROP2442,1BR Duplex,Apartment,Lease,205266,141,3,4,Kano, Kano,53.4583,128.8918,2023-12-19,on hold
+PROP2443,3BR Bungalow,Apartment,Lease,215917,261,3,1,Port Harcourt, Rivers,88.0629,-146.5376,2023-08-10,sold
+PROP2444,1BR Duplex,Business,lease-to-own,268104.95,105,6,1,Ikorodu, Lagos,11.8413,-170.2854,2024-08-17,on hold
+PROP2445,1BR Bungalow,Commercial,lease-to-own,96291,213,5,4,Ogbomosho, Oyo,62.4844,-155.4222,2025-03-07,pending
+PROP2446,2BR Flat,Residence,lease-to-own,294169.71,414,4,5,Lekki, Lagos,58.0169,-22.8668,2024-07-28,pending
+PROP2447,2BR Bungalow,Business,Lease,268104.95,471,1,5,Ogbomosho, Oyo,-17.4423,-30.7674,2024-02-03,pending
+PROP2448,4BR Flat,Duplex,lease-to-own,354976,68,4,5,Asokoro, Abuja FCT,-83.0228,146.8144,2025-03-05,on hold
+PROP2449,4BR Bungalow,Business,lease-to-own,268104.95,474,5,3,Kano, Kano,49.2946,-40.3595,2024-06-11,sold
+PROP2450,3BR Bungalow,Apartment,Sale,65938,95,5,4,Nasarawa, Kano,-18.9941,-84.0159,2023-06-28,on hold
+PROP2451,4BR Flat,Commercial,lease-to-own,233537.43,287,6,4,Nasarawa, Kano,-20.33,85.7129,2024-10-16,pending
+PROP2452,2BR Duplex,Apartment,Lease,195683,342,5,4,Ogbomosho, Oyo,55.0736,-155.9841,2024-03-12,on hold
+PROP2453,1BR Bungalow,Commercial,Sale,233537.43,440,5,2,Obio-Akpor, Rivers,-78.0249,-23.8389,2025-06-06,sold
+PROP2454,4BR Bungalow,Duplex,Lease,117808,163,2,5,Surulere, Lagos,54.678,-114.9085,2024-09-28,on hold
+PROP2455,1BR Flat,Residence,Lease,489030,89,3,2,Lekki, Lagos,-68.6084,8.9703,2024-08-23,available
+PROP2456,2BR Duplex,Residential,Rent,365855,225,4,5,Obio-Akpor, Rivers,-50.1646,129.244,2025-04-29,sold
+PROP2457,1BR Duplex,Commercial,Rent,63748,190,2,1,Garki, Abuja FCT,14.1836,46.7521,2024-03-16,pending
+PROP2458,5BR Bungalow,Residence,Rent,436336,299,4,4,Fagge, Kano,46.734,-135.0159,2023-10-11,pending
+PROP2459,5BR Duplex,Residence,Lease,228827,142,4,2,Wuse, Abuja FCT,-13.4269,-6.698,2024-04-08,sold
+PROP2460,5BR Duplex,Commercial,Sale,233537.43,358,1,5,Wuse, Abuja FCT,58.2202,93.1052,2025-01-21,available
+PROP2461,4BR Flat,Residential,lease-to-own,247940.19,352,5,1,Ogbomosho, Oyo,42.4073,-38.7726,2023-08-21,available
+PROP2462,4BR Flat,Business,Lease,268104.95,227,1,5,Ibadan, Oyo,59.8327,174.9417,2025-03-26,on hold
+PROP2463,1BR Flat,Commercial,Sale,233537.43,165,2,3,Bonny, Rivers,74.6525,24.1668,2023-12-14,available
+PROP2464,4BR Flat,Commercial,Lease,471881,349,6,4,Ibadan, Oyo,87.8165,48.0978,2024-06-09,sold
+PROP2465,5BR Flat,Duplex,Rent,384361,88,2,1,Oyo Town, Oyo,28.6355,48.2771,2025-05-23,on hold
+PROP2466,1BR Flat,Commercial,Lease,233537.43,494,4,2,Ikorodu, Lagos,-84.3313,23.5751,2025-05-23,pending
+PROP2467,3BR Flat,Business,lease-to-own,268104.95,110,3,4,Lekki, Lagos,44.6202,33.641,2023-10-14,sold
+PROP2468,4BR Flat,Residence,Rent,231126,191,5,4,Ibadan, Oyo,-49.2387,-128.6984,2023-11-12,available
+PROP2469,3BR Flat,Apartment,lease-to-own,252376.3,162,4,2,Ikeja, Lagos,39.7481,-27.3016,2023-12-21,sold
+PROP2470,3BR Bungalow,Commercial,Rent,185209,145,4,2,Oyo Town, Oyo,-0.7625,-102.8134,2023-08-28,on hold
+PROP2471,2BR Duplex,Residential,Sale,449353,398,2,5,Ibadan, Oyo,-3.7133,123.4998,2025-04-21,sold
+PROP2472,1BR Duplex,Residence,Lease,294169.71,107,2,4,Ogbomosho, Oyo,-57.3911,-90.7737,2025-04-20,sold
+PROP2473,1BR Duplex,Duplex,lease-to-own,479324,397,3,4,Nasarawa, Kano,74.8193,19.3151,2024-07-22,pending
+PROP2474,3BR Flat,Residential,lease-to-own,379413,288,5,3,Nasarawa, Kano,-48.0025,-144.1521,2024-08-22,pending
+PROP2475,3BR Flat,Business,Lease,366162,75,3,3,Yaba, Lagos,67.6567,166.1905,2024-09-04,available
+PROP2476,4BR Duplex,Business,Sale,268104.95,355,2,5,Obio-Akpor, Rivers,28.0281,48.388,2024-11-12,pending
+PROP2477,5BR Bungalow,Business,Rent,268104.95,120,6,3,Ibadan, Oyo,85.0446,6.928,2023-10-31,on hold
+PROP2478,3BR Flat,Apartment,Lease,252376.3,436,2,4,Bonny, Rivers,9.0171,-43.7635,2024-09-28,on hold
+PROP2479,4BR Bungalow,Residence,Sale,83670,409,5,4,Ikeja, Lagos,-62.113,-159.495,2024-10-03,sold
+PROP2480,5BR Flat,Apartment,Sale,149607,103,5,4,Oyo Town, Oyo,-86.1959,176.7482,2024-04-23,available
+PROP2481,1BR Flat,Commercial,Rent,109535,295,3,1,Maitama, Abuja FCT,-66.3342,-117.5825,2025-05-28,pending
+PROP2482,5BR Duplex,Residential,Lease,247940.19,71,4,4,Yaba, Lagos,61.6768,-10.5952,2024-05-01,available
+PROP2483,4BR Bungalow,Commercial,Lease,233537.43,84,4,4,Fagge, Kano,3.126,166.8229,2024-03-06,pending
+PROP2484,2BR Flat,Residential,Sale,247940.19,215,6,2,Fagge, Kano,-80.9135,-6.9278,2024-03-19,sold
+PROP2485,1BR Flat,Residence,Sale,294169.71,243,2,3,Surulere, Lagos,71.3141,1.397,2024-06-23,on hold
+PROP2486,1BR Flat,Residential,Lease,247940.19,340,3,2,Asokoro, Abuja FCT,16.2988,-91.2326,2024-06-06,sold
+PROP2487,4BR Flat,Apartment,Sale,252376.3,110,2,1,Ogbomosho, Oyo,36.7837,178.8643,2024-04-02,available
+PROP2488,5BR Bungalow,Residence,lease-to-own,344348,329,5,4,Ibadan, Oyo,1.228,89.2171,2025-03-15,available
+PROP2489,4BR Flat,Apartment,Sale,201322,263,5,4,Wuse, Abuja FCT,-46.0993,33.7907,2024-06-10,pending
+PROP2490,1BR Flat,Commercial,lease-to-own,377533,332,4,4,Obio-Akpor, Rivers,-20.5694,160.4391,2025-03-02,on hold
+PROP2491,2BR Flat,Residential,Sale,247940.19,432,1,2,Port Harcourt, Rivers,26.7394,-153.9384,2023-07-15,available
+PROP2492,4BR Bungalow,Residential,Sale,247940.19,155,6,3,Ibadan, Oyo,-51.1723,159.7964,2025-05-08,on hold
+PROP2493,1BR Duplex,Business,lease-to-own,166687,154,3,5,Oyo Town, Oyo,-21.0502,170.5206,2023-09-13,available
+PROP2494,3BR Bungalow,Business,Lease,453679,192,4,1,Asokoro, Abuja FCT,-34.3973,-169.9503,2025-02-11,on hold
+PROP2495,1BR Bungalow,Residence,Lease,444801,64,6,5,Port Harcourt, Rivers,59.6949,-173.253,2024-03-07,on hold
+PROP2496,3BR Flat,Business,lease-to-own,410926,57,6,3,Fagge, Kano,-8.3868,-23.3287,2024-11-19,sold
+PROP2497,5BR Flat,Residential,Lease,247940.19,478,4,4,Fagge, Kano,17.6739,115.3168,2025-01-18,on hold
+PROP2498,5BR Bungalow,Residence,Sale,250917,442,3,4,Obio-Akpor, Rivers,17.3888,-25.1622,2025-03-20,sold
+PROP2499,1BR Bungalow,Duplex,Rent,267591.27,58,5,1,Lekki, Lagos,77.9051,73.3567,2023-07-02,pending
